@@ -21,65 +21,65 @@ My name is Clarissa Lima, I am a graduate student in Information Systems at UFMG
 	
 ## Material
 Project is created with:
- * [Árvore de decisão](#Árvore-de-decisão)
+ * [Árvore de decisão](#árvore-de-decisão)
  * [KNN](#KNN)
- * [Naive bayes](#Naive-bayes)
- * [Support vector machine(SVM)](#Support-vector-machine(SVM))
- * [Regressão linear](#Regressão-linear)
- * [Perceptron](#Perceptron)
- * [Regressão logística](#Regressão-logística)
- * [Função de custo](#Função-de-custo)
- * [Gradient Descent](#Gradient-Descent)
- * [Multilayer perceptron](#Multilayer-perceptron)
- * [Redes neurais convolucionais](#Redes-neurais-convolucionais)
- * [Rede neurais recorrentes](#Rede-neurais-recorrentes)
- * [Machine learning não superviosionado](#Machine-learning-não-superviosionado)
+ * [Naive bayes](#naive-bayes)
+ * [Support vector machine(SVM)](#support-vector-machine(SVM))
+ * [Regressão linear](#regressão-linear)
+ * [Perceptron](#perceptron)
+ * [Regressão logística](#regressão-logística)
+ * [Função de custo](##função-de-custo)
+ * [Gradient Descent](#gradient-Descent)
+ * [Multilayer perceptron](#multilayer-perceptron)
+ * [Redes neurais convolucionais](#redes-neurais-convolucionais)
+ * [Rede neurais recorrentes](#rede-neurais-recorrentes)
+ * [Machine learning não superviosionado](#machine-learning-não-superviosionado)
  
 
 
-## Árvore de decisão
+# Árvore de decisão
 (*** need to complete this part ***)
 
-## KNN
+# KNN
 (*** need to complete this part ***)
 
-## Naive bayes
-(*** need to complete this part ***)
-
-
-## Support vector machine(SVM)
+# Naive bayes
 (*** need to complete this part ***)
 
 
-## Regressão linear
+# Support vector machine(SVM)
 (*** need to complete this part ***)
 
 
-## Perceptron
+# Regressão linear
 (*** need to complete this part ***)
 
 
-## Regressão logística
+# Perceptron
 (*** need to complete this part ***)
 
 
-## Função de custo
+# Regressão logística
 (*** need to complete this part ***)
 
 
-## Gradient Descent
+# Função de custo
 (*** need to complete this part ***)
 
 
-## Multilayer perceptron
+# Gradient Descent
 (*** need to complete this part ***)
 
 
-## Rede neurais recorrentes
+# Multilayer perceptron
 (*** need to complete this part ***)
 
 
-## Machine learning não superviosionado
+# Rede neurais recorrentes
+(*** need to complete this part ***)
+
+
+# Machine learning não superviosionado
 (*** need to complete this part ***)
 
 
