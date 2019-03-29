@@ -1,28 +1,88 @@
-## My Machine Learning Journey
+# My Machine Learning Journey
 
+## What is it?
 This repository consists of the materials used and developed during my studies on machine learning.
 
-## About 
+### Who am I
+My name is Clarissa Lima, I am a graduate student in Information Systems at UFMG and a graduate student in Control and Automation Engineering at PUC-Minas. Look at my profile later to know more about me :)
+
+### About 
 
 ![Screenshot](img.png)
 
-## Who am I
-My name is Clarissa Lima, I am a graduate student in Information Systems at UFMG and a graduate student in Control and Automation Engineering at PUC-Minas. Look at my profile later to know more about me :)
-
 ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Why study Machine Learning](#why-study-machine-learning)
+* [Material](#material)
 
-## General info
-This project is ...........
+## Why study Machine Learning
+
+(*** need to complete this part ***)
+
 	
-## Technologies
+## Material
 Project is created with:
-....................
-	
-## Setup
-To run this project, install it locally..........
+ * [Árvore de decisão](#Árvore-de-decisão)
+ * [KNN](#KNN)
+ * [Naive bayes](#Naive-bayes)
+ * [Support vector machine(SVM)](#Support-vector-machine(SVM))
+ * [Regressão linear](#Regressão-linear)
+ * [Perceptron](#Perceptron)
+ * [Regressão logística](#Regressão-logística)
+ * [Função de custo](#Função-de-custo)
+ * [Gradient Descent](#Gradient-Descent)
+ * [Multilayer perceptron](#Multilayer-perceptron)
+ * [Redes neurais convolucionais](#Redes-neurais-convolucionais)
+ * [Rede neurais recorrentes](#Rede-neurais-recorrentes)
+ * [Machine learning não superviosionado](#Machine-learning-não-superviosionado)
+ 
+
+
+## Árvore de decisão
+(*** need to complete this part ***)
+
+## KNN
+(*** need to complete this part ***)
+
+## Naive bayes
+(*** need to complete this part ***)
+
+
+## Support vector machine(SVM)
+(*** need to complete this part ***)
+
+
+## Regressão linear
+(*** need to complete this part ***)
+
+
+## Perceptron
+(*** need to complete this part ***)
+
+
+## Regressão logística
+(*** need to complete this part ***)
+
+
+## Função de custo
+(*** need to complete this part ***)
+
+
+## Gradient Descent
+(*** need to complete this part ***)
+
+
+## Multilayer perceptron
+(*** need to complete this part ***)
+
+
+## Rede neurais recorrentes
+(*** need to complete this part ***)
+
+
+## Machine learning não superviosionado
+(*** need to complete this part ***)
+
+
 
 ```
 $ cd ../lorem
