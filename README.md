@@ -6,7 +6,11 @@ This repository consists of the materials used and developed during my studies o
 ### Who am I
 My name is Clarissa Lima, I am a graduate student in Information Systems at UFMG and a graduate student in Control and Automation Engineering at PUC-Minas. Look at my profile later to know more about me :)
 
-### About 
+<!--### What to study?
+Things you need to study before start sudying Machine Learning:
+ * [Iniciante](#árvore-de-decisão)
+ * [KNN](#KNN)
+ * [Naive bayes](#naive-bayes)-->
 
 ![Screenshot](img.png)
 
