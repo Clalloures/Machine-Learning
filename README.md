@@ -22,9 +22,8 @@ Things you need to study before start sudying Machine Learning:
 
 (*** need to complete this part ***)
 
-	
+<!--	
 ## Material
-Project is created with:
  * [Árvore de decisão](#árvore-de-decisão)
  * [KNN](#KNN)
  * [Naive bayes](#naive-bayes)
@@ -38,54 +37,31 @@ Project is created with:
  * [Redes neurais convolucionais](#redes-neurais-convolucionais)
  * [Rede neurais recorrentes](#rede-neurais-recorrentes)
  * [Machine learning não superviosionado](#machine-learning-não-superviosionado)
- 
-
-
 # Árvore de decisão
 (*** need to complete this part ***)
-
 # KNN
 (*** need to complete this part ***)
-
 # Naive bayes
 (*** need to complete this part ***)
-
-
 # Support vector machine(SVM)
 (*** need to complete this part ***)
-
-
 # Regressão linear
 (*** need to complete this part ***)
-
-
 # Perceptron
 (*** need to complete this part ***)
-
-
 # Regressão logística
 (*** need to complete this part ***)
-
-
 # Função de custo
 (*** need to complete this part ***)
-
-
 # Gradient Descent
 (*** need to complete this part ***)
-
-
 # Multilayer perceptron
 (*** need to complete this part ***)
-
-
 # Rede neurais recorrentes
 (*** need to complete this part ***)
-
-
 # Machine learning não superviosionado
 (*** need to complete this part ***)
-
+-->
 
 
 ```
