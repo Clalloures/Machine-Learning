@@ -22,8 +22,9 @@ Things you need to study before start sudying Machine Learning:
 
 (*** need to complete this part ***)
 
-<!--	
+
 ## Material
+<!--
  * [Árvore de decisão](#árvore-de-decisão)
  * [KNN](#KNN)
  * [Naive bayes](#naive-bayes)
