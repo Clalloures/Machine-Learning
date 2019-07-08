@@ -38,7 +38,7 @@ Things you need to study before start sudying Machine Learning:
   - [Agregacao de Algoritmos](#agregacao-de-algoritmos)
   - [Análise de Componentes Principais](#analise-de-componentes-principais)
   - [Decomposição de valores singulares](#decomposicao-de-valores-singulares)
-  - [Análise de Componentes Independentes](analise-de-componentes-independentes)
+  - [Análise de Componentes Independentes](#analise-de-componentes-independentes)
 
 
 
