@@ -25,14 +25,24 @@ Things you need to study before start sudying Machine Learning:
 
 ## Material
   - [Linear Regression](#linear-regression)
-<!--
- * [Árvore de decisão](#árvore-de-decisão)
+  - [SVM](#svm)
+  - [KNN](#knn)
+  - [Regressão Logística](#regressao-logistica)
+  - [Decision Tree](#decision-tree)
+  - [K-Means](#k-means)
+  - [Floresta aleatória](#floresta-aleatoria)
+  - [Baías ingénuas](#baias-ingenuas)
+  - [Algoritmos de redução dimensional](#algoritmos-de-reducao-dimensional)
+  - [Algoritmos de aumento de gradiente](#algoritmos-de-aumento-de-gradiente)
+  
+  
+<!-- * [Árvore de decisão](#árvore-de-decisão)
  * [KNN](#KNN)
  * [Naive bayes](#naive-bayes)
  * [Support vector machine(SVM)](#support-vector-machine(SVM))
  * [Regressão linear](#regressão-linear)
  * [Perceptron](#perceptron)
- * [Regressão logística](#regressão-logística)
+ * [Regressão logística](#regressao-logistica)
  * [Função de custo](##função-de-custo)
  * [Gradient Descent](#gradient-Descent)
  * [Multilayer perceptron](#multilayer-perceptron)
@@ -72,7 +82,25 @@ $ npm install
 $ npm start
 ```
 
-# Linear Regression
+# Regressão linear
+
+# SVM
+
+# KNN 
+
+# Regressao Logistica
+
+# Decision Tree
+
+# K-Means
+
+# Floresta aleatoria
+
+# Baias ingenuas
+
+# Algoritmos de reducao dimensional
+
+# Algoritmos de aumento de gradiente
 
 <!--You can use the [editor on GitHub](https://github.com/Clalloures/Machine-Learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
   Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
