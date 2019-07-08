@@ -41,9 +41,6 @@ Things you need to study before start sudying Machine Learning:
   - [Análise de Componentes Independentes](#analise-de-componentes-independentes)
 
 
-
-Algumas das aplicações do ACP incluem compressão, simplificando dados para facilitar a aprendizagem, a visualização. Observe que o conhecimento do domínio é muito importante ao escolher se deseja prosseguir com o ACP ou não. Não é adequado nos casos em que os dados são ruidosos (todos os componentes do ACP têm uma variação bastante alta).
-  
   
 <!-- * [Árvore de decisão](#árvore-de-decisão)
  * [KNN](#KNN)
@@ -82,14 +79,11 @@ Algumas das aplicações do ACP incluem compressão, simplificando dados para fa
 (*** need to complete this part ***)
 # Machine learning não superviosionado
 (*** need to complete this part ***)
--->
-
-
 ```
 $ cd ../lorem
 $ npm install
 $ npm start
-```
+-->```
 
 # Regressão linear
 O algoritmo de Regressão linear usará os pontos de dados para encontrar a melhor linha de ajuste para modelar os dados. Uma linha pode ser representada pela equação, y = m * x + c onde y é a variável dependente e xé a variável independente. As teorias básicas de cálculo são aplicadas para encontrar os valores para m e c usando o conjunto de dados fornecido.
@@ -215,6 +209,8 @@ O ACI está relacionado ao ACP, mas é uma técnica muito mais poderosa que é c
   ### Markdown
     Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ```markdown
+
+<!--
 Syntax highlighted code block
 # Header 1
 ## Header 2
@@ -225,9 +221,9 @@ Syntax highlighted code block
 2. List
 **Bold** and _Italic_ and `Code` text
 [Link](url) and ![Image](src)
-```
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ### Jekyll Themes
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Clalloures/Machine-Learning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
+-->
