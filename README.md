@@ -24,6 +24,7 @@ Things you need to study before start sudying Machine Learning:
 
 
 ## Material
+  - [Linear Regression](#linear-regression)
 <!--
  * [Árvore de decisão](#árvore-de-decisão)
  * [KNN](#KNN)
@@ -70,6 +71,8 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+
+# Linear Regression
 
 <!--You can use the [editor on GitHub](https://github.com/Clalloures/Machine-Learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
   Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
