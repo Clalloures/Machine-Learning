@@ -1,7 +1,7 @@
 # My Machine Learning Journey
 
 ## What is it?
-This repository consists of the materials used and developed during my studies on machine learning.
+This repository consists of the materials used and developed during my studies on machine learning. Small scale machine learning projects to understand the core concepts
 
 ### Who am I
 My name is Clarissa Lima, I am a graduate student in Information Systems at UFMG and a graduate student in Control and Automation Engineering at PUC-Minas. Look at my profile later to know more about me :)
