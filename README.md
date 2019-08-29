@@ -41,50 +41,6 @@ Things you need to study before start sudying Machine Learning:
   - [Análise de Componentes Independentes](#analise-de-componentes-independentes)
 
 
-  
-<!-- * [Árvore de decisão](#árvore-de-decisão)
- * [KNN](#KNN)
- * [Naive bayes](#naive-bayes)
- * [Support vector machine(SVM)](#support-vector-machine(SVM))
- * [Regressão linear](#regressão-linear)
- * [Perceptron](#perceptron)
- * [Regressão logística](#regressao-logistica)
- * [Função de custo](##função-de-custo)
- * [Gradient Descent](#gradient-Descent)
- * [Multilayer perceptron](#multilayer-perceptron)
- * [Redes neurais convolucionais](#redes-neurais-convolucionais)
- * [Rede neurais recorrentes](#rede-neurais-recorrentes)
- * [Machine learning não superviosionado](#machine-learning-não-superviosionado)
-# Árvore de decisão
-(*** need to complete this part ***)
-# KNN
-(*** need to complete this part ***)
-# Naive bayes
-(*** need to complete this part ***)
-# Support vector machine(SVM)
-(*** need to complete this part ***)
-# Regressão linear
-(*** need to complete this part ***)
-# Perceptron
-(*** need to complete this part ***)
-# Regressão logística
-(*** need to complete this part ***)
-# Função de custo
-(*** need to complete this part ***)
-# Gradient Descent
-(*** need to complete this part ***)
-# Multilayer perceptron
-(*** need to complete this part ***)
-# Rede neurais recorrentes
-(*** need to complete this part ***)
-# Machine learning não superviosionado
-(*** need to complete this part ***)
-```
-$ cd ../lorem
-$ npm install
-$ npm start
--->```
-
 # Regressão linear
 O algoritmo de Regressão linear usará os pontos de dados para encontrar a melhor linha de ajuste para modelar os dados. Uma linha pode ser representada pela equação, y = m * x + c onde y é a variável dependente e xé a variável independente. As teorias básicas de cálculo são aplicadas para encontrar os valores para m e c usando o conjunto de dados fornecido.
 A Regressão linear tem 2 tipos como Regressão linear simples, onde são utilizadas apenas 1 variável independente e Regressão linear múltipla, onde múltiplas variáveis ​​independentes são definidas.
@@ -203,6 +159,57 @@ ACI é uma técnica estatística para revelar fatores ocultos que estão subjace
 
 
 O ACI está relacionado ao ACP, mas é uma técnica muito mais poderosa que é capaz de encontrar os fatores subjacentes das fontes quando esses métodos clássicos falham completamente. Suas aplicações incluem imagens digitais, bancos de dados de documentos, indicadores econômicos e medidas psicométricas.
+
+
+
+
+
+ 
+<!-- * [Árvore de decisão](#árvore-de-decisão)
+ * [KNN](#KNN)
+ * [Naive bayes](#naive-bayes)
+ * [Support vector machine(SVM)](#support-vector-machine(SVM))
+ * [Regressão linear](#regressão-linear)
+ * [Perceptron](#perceptron)
+ * [Regressão logística](#regressao-logistica)
+ * [Função de custo](##função-de-custo)
+ * [Gradient Descent](#gradient-Descent)
+ * [Multilayer perceptron](#multilayer-perceptron)
+ * [Redes neurais convolucionais](#redes-neurais-convolucionais)
+ * [Rede neurais recorrentes](#rede-neurais-recorrentes)
+ * [Machine learning não superviosionado](#machine-learning-não-superviosionado)
+# Árvore de decisão
+(*** need to complete this part ***)
+# KNN
+(*** need to complete this part ***)
+# Naive bayes
+(*** need to complete this part ***)
+# Support vector machine(SVM)
+(*** need to complete this part ***)
+# Regressão linear
+(*** need to complete this part ***)
+# Perceptron
+(*** need to complete this part ***)
+# Regressão logística
+(*** need to complete this part ***)
+# Função de custo
+(*** need to complete this part ***)
+# Gradient Descent
+(*** need to complete this part ***)
+# Multilayer perceptron
+(*** need to complete this part ***)
+# Rede neurais recorrentes
+(*** need to complete this part ***)
+# Machine learning não superviosionado
+(*** need to complete this part ***)
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+-->```
+
+
+
 
 <!--You can use the [editor on GitHub](https://github.com/Clalloures/Machine-Learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
   Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
