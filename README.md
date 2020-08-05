@@ -10,6 +10,7 @@ My name is Clarissa Lima, I am a graduate student in Information Systems at UFMG
 Things you need to study before start sudying Machine Learning:
  * [Iniciante](#árvore-de-decisão)
  * [KNN](#KNN)
+* 
  * [Naive bayes](#naive-bayes)-->
 
 ![Screenshot](img.png)
